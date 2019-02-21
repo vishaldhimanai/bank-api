@@ -1,5 +1,5 @@
 # bank-api
-1) Downlaod Web application .zip file https://drive.google.com/open?id=1NS16jJSPKLnzvFbWffeKrOEMRKGd3fQS 
+1) Downlaod Web application bankapi.zip file
 2) pip install -r requirements.txt
 3) cd chatbot_app
 4) python manage.py makemigrations app
