@@ -1,7 +1,7 @@
 # Bank-API
 1) Downlaod Web application bankapi.zip file
 2) pip install -r requirements.txt
-3) cd chatbot_app
+3) cd bankapi
 4) python manage.py makemigrations app
 5) python manage.py migrate
 6) python manage.py runserver
